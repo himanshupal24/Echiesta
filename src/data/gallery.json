@@ -1,0 +1,80 @@
+[
+    {
+        "id": "1",
+        "type": "image",
+        "url": "/gallery/1.webp",
+        "alt": "",
+        "animation": "flip-left"
+    },
+    {
+        "id": "2",
+        "type": "image",
+        "url": "/gallery/2.webp",
+        "alt": ""
+    },
+    {
+        "id": "3",
+        "type": "image",
+        "url": "/gallery/3.webp",
+        "alt": ""
+    },
+
+    {
+        "id": "4",
+        "type": "image",
+        "url": "/gallery/4.webp",
+        "alt": "",
+        "animation": "flip-left",
+        "offset": "200"
+    },
+    {
+        "id": "5",
+        "type": "image",
+        "url": "/gallery/5.webp",
+        "alt": "",
+        "animation": "fade-up"
+    },
+
+    {
+        "id": "6",
+        "type": "image",
+        "url": "/gallery/6.webp",
+        "alt": "",
+        "animation": "fade-left"
+    },
+    {
+        "id": "7",
+        "type": "image",
+        "url": "/gallery/7.webp",
+        "alt": "",
+        "animation": "fade-down"
+    },
+    {
+        "id": "8",
+        "type": "image",
+        "url": "/gallery/8.webp",
+        "alt": "",
+        "animation": "fade-down"
+    },
+    {
+        "id": "9",
+        "type": "image",
+        "url": "/gallery/9.webp",
+        "alt": "",
+        "animation": "fade-down"
+    },
+    {
+        "id": "10",
+        "type": "image",
+        "url": "/gallery/10.webp",
+        "alt": "",
+        "animation": "fade-down"
+    },
+    {
+        "id": "11",
+        "type": "image",
+        "url": "/gallery/11.webp",
+        "alt": "",
+        "animation": "fade-down"
+    }
+]

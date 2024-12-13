@@ -1,0 +1,887 @@
+[
+    {
+        "id": "1",
+        "title": "SPORTS EVENTS",
+        "description": "Echiesta includes thrilling sports events promoting teamworks, fitness, and a spirit of competition.",
+        "poster": "sportfest.webp",
+        "date": ["15th, 16th November 2024"],
+        "link": "sub-events",
+        "subEvents": [
+            {
+                "name": "Basketball (Boys & Girls)",
+                "TeamSize": "5",
+                "Reserve": "5",
+                "Participation": "Team",
+                "entryFees": "100",
+                "Dates": "15 Nov Prelims & 16 Nov Finals",
+                "venue": "Sports Ground",
+                "time": "10:00 AM Onwards",
+                "details": {
+                    "teamComposition": "Five players per team on the court at any time. Substitutions can occur at any stoppage in play.",
+                    "scoring": "Field goal (2 points), Three-point shot (3 points), Free throw (1 point).",
+                    "gameDuration": "FIBA: 4 quarters of 10 minutes each."
+                },
+                "cashPrize": {
+                    "1st Prize": "11000/-",
+                    "2st Prize": "",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Volleyball (Boys & Girls)",
+                "TeamSize": "6",
+                "Reserve": "6",
+                "Dates": "15 Nov Prelims & 16 Nov Finals",
+                "venue": "Sports Ground",
+                "time": "10:00 AM Onwards",
+                "Participation": "Team",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "11000/-",
+                    "2st Prize": "",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Kabaddi (Boys & Girls)",
+                "TeamSize": "7",
+                "Reserve": "7",
+                "Participation": "Team",
+                "Dates": "15 Nov Prelims & 16 Nov Finals",
+                "venue": "Sports Ground",
+                "time": "10:00 AM Onwards",
+                "entryFees": "100",
+                "details": {
+                    "teamComposition": "Five players per team on the court at any time. Substitutions can occur at any stoppage in play.",
+                    "scoring": "Field goal (2 points), Three-point shot (3 points), Free throw (1 point).",
+                    "gameDuration": "FIBA: 4 quarters of 10 minutes each."
+                },
+                "cashPrize": {
+                    "1st Prize": "11000/-",
+                    "2st Prize": "",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Table Tennis Solo (Boys & Girls)",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "Dates": "15 Nov Prelims & 16 Nov Finals",
+                "venue": "Sports Ground",
+                "time": "10:00 AM Onwards",
+                "entryFees": "100",
+                "details": {
+                    "teamComposition": "Five players per team on the court at any time. Substitutions can occur at any stoppage in play.",
+                    "scoring": "Field goal (2 points), Three-point shot (3 points), Free throw (1 point).",
+                    "gameDuration": "FIBA: 4 quarters of 10 minutes each."
+                },
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Table Tennis Team (Boys & Girls)",
+                "TeamSize": "2",
+                "Participation": "Team",
+                "Dates": "15 Nov Prelims & 16 Nov Finals",
+                "venue": "Sports Ground",
+                "time": "10:00 AM Onwards",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Long Jump",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "Dates": "15 Nov Prelims &  Finals",
+                "venue": "Sports Ground",
+                "time": "11:00 AM Onwards",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "High Jump",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "Dates": "15 Nov Prelims & Finals",
+                "venue": "Sports Ground",
+                "time": "11:30 AM Onwards",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Discus Throw",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "Dates": "15 Nov Prelims &  Finals",
+                "venue": "Sports Ground",
+                "time": "12:00 AM Onwards",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Shot Put",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "Dates": "15 Nov Prelims &  Finals",
+                "venue": "Sports Ground",
+                "time": "12:30 AM Onwards",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Javelin Throw",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "Dates": "15 Nov Prelims & Finals",
+                "venue": "Sports Ground",
+                "time": "1:30 AM Onwards",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Carrom",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "Dates": "15 Nov Prelims & Finals",
+                "venue": "Sports Ground",
+                "time": "11:00 AM Onwards",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Chess",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "Dates": "15 Nov Prelims & Finals",
+                "venue": "Sports Ground",
+                "time": "11:00 AM Onwards",
+                "entryFees": "100",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "CULTURAL EVENTS",
+        "description": "Experience a rich tapestry of cultural events, including dance, music, drama, and fashion shows. Echiesta celebrates the vibrant cultural heritage through performances that captivate and entertain",
+        "poster": "culturalfest.webp",
+        "link": "sub-events",
+        "date": ["15th, 16th, 17th November 2024"],
+        "subEvents": [
+            {
+                "EventTitle": "Fashionscape (Fashion Show)",
+                "link": "sub-sub-events",
+                "subSubEvents": [
+                    {
+                        "name": "Ramp Walk",
+                        "TeamSize": "Max 25",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Main Stage",
+                        "time": "3:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "21000/-",
+                            "2nd Prize": "",
+                            "3rd Prize": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "EventTitle": "Rhythm and Movement (Dance Category)",
+                "link": "sub-sub-events",
+                "subSubEvents": [
+                    {
+                        "name": "Solo Dance",
+                        "TeamSize": "1",
+                        "Participation": "Individual",
+                        "Dates": "17 November 2024",
+                        "venue": "Stage-2 (Echelon Square)",
+                        "time": "10:00 AM",
+                        "entryFees": "100",
+                        "cashPrize": {
+                            "1st Prize": "5000/-",
+                            "2nd Prize": "3000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Duo Dance",
+                        "TeamSize": "2",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "17 November 2024",
+                        "venue": "Main Stage",
+                        "time": "11:00 AM",
+                        "cashPrize": {
+                            "1st Prize": "4000/-",
+                            "2nd Prize": "3000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Group Dance",
+                        "TeamSize": "8 to 10",
+                        "Participation": "Team",
+                        "Dates": "17 November 2024",
+                        "venue": "Main Stage",
+                        "time": "12:00 PM",
+                        "entryFees": "100",
+                        "cashPrize": {
+                            "1st Prize": "11000/-",
+                            "2nd Prize": "",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Solo Battle",
+                        "TeamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "17 November 2024",
+                        "venue": "Main Stage",
+                        "time": "1:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Group Battle",
+                        "TeamSize": "5",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "17 November 2024",
+                        "venue": "Main Stage",
+                        "time": "2:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "11000/-",
+                            "2nd Prize": "",
+                            "3st Prize": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "EventTitle": "Rhythm & Riffs (Music Category)",
+                "link": "sub-sub-events",
+                "subSubEvents": [
+                    {
+                        "name": "Solo Singing",
+                        "TeamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Stage-2 (Echelon Square)",
+                        "time": "11:00 AM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Duet Singing",
+                        "TeamSize": "2",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Stage-2 (Echelon Square)",
+                        "time": "12:00 AM",
+                        "cashPrize": {
+                            "1st Prize": "4000/-",
+                            "2nd Prize": "3000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Band Battels",
+                        "TeamSize": "10",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Main Stage",
+                        "time": "11:00 AM",
+                        "cashPrize": {
+                            "1st Prize": "11000/-",
+                            "2nd Prize": "7000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Instrumental Music",
+                        "TeamSize": "1/Max 2",
+                        "Participation": "Individual/Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Main Stage",
+                        "time": "1:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Rap",
+                        "TeamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Stage-2 (Echelon Square)",
+                        "time": "1:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "EventTitle": "Curtain Call (Drama Category)",
+                "link": "sub-sub-events",
+                "subSubEvents": [
+                    {
+                        "name": "Monologue",
+                        "TeamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "17 November 2024",
+                        "venue": "Stage-2 (Echelon Square)",
+                        "time": "1:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Stage Play ",
+                        "TeamSize": "8 to 10",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "17 November 2024",
+                        "venue": "Main Stage",
+                        "time": "4:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "7000/-",
+                            "2nd Prize": "",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Nukkad Natika",
+                        "TeamSize": "10 to 15",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "17 November 2024",
+                        "venue": "Ground",
+                        "time": "3:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "11000/-",
+                            "2nd Prize": "7000/-",
+                            "3st Prize": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "EventTitle": "Creative Canvas (Drawing Category)",
+                "link": "sub-sub-events",
+                "subSubEvents": [
+                    {
+                        "name": "Sketch/Painting",
+                        "TeamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Hawa Mahal",
+                        "time": "11:00 AM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Face Painting",
+                        "TeamSize": "2",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Hawa Mahal",
+                        "time": "12:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "T-shirt Painting",
+                        "TeamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Hawa Mahal",
+                        "time": "2:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Rangoli",
+                        "TeamSize": "6 to 8",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Academic Courtyard",
+                        "time": "1:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "5000/-",
+                            "2nd Prize": "3000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Trash TO Treasure",
+                        "TeamSize": "3 to 4",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Hawa Mahal",
+                        "time": "3:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "5000/-",
+                            "2nd Prize": "3000/-",
+                            "3st Prize": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "TECHNICAL EVENTS",
+        "description": "Engage in cutting-edge contests, including hackathons, coding challenges, robotics competitions, and tech quizzes.These events provide a dynamic environment for participants to test their technical skills and creativity in solving real-world problems",
+        "poster": "technicalfest.webp",
+        "link": "sub-events",
+        "date": ["15th, 16th, 17th November 2024"],
+        "subEvents": [
+            {
+                "name": "Hacksplash 2.0",
+                "teamSize": "2 to 5",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "16 November 2024",
+                "venue": "G-29/ F-37",
+                "time": "10:00 AM",
+                "cashPrize": {
+                    "1st Prize": "21000/-",
+                    "2nd Prize": "11000/-",
+                    "3rd Prize": "5000/-"
+                }
+            },
+            {
+                "name": "Shark Tank",
+                "teamSize": "2 to 4",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "17 November 2024",
+                "venue": "G-29/ F-37",
+                "time": "10:00 AM",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2nd Prize": "3000/-",
+                    "3rd Prize": "2000/-"
+                }
+            },
+            {
+                "name": "Coding Battle",
+                "teamSize": "2 to 4",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "16 November 2024",
+                "venue": "CSE Lab S-15",
+                "time": "10:00 AM",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2nd Prize": "3000/-",
+                    "3rd Prize": "2000/-"
+                }
+            },
+            {
+                "name": "Tech Talk",
+                "teamSize": "2 to 4",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "16 November 2024",
+                "venue": "G-29/ F-37",
+                "time": "11:30 AM",
+                "cashPrize": {
+                    "1st Prize": "",
+                    "2nd Prize": "",
+                    "3rd Prize": ""
+                }
+            },
+            {
+                "name": "Roborace(Hurdles)",
+                "teamSize": "2 to 4",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "16 November 2024",
+                "venue": "ECE Lab",
+                "time": "10:00 AM",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2nd Prize": "3000/-",
+                    "3rd Prize": "2000/-"
+                }
+            },
+            {
+                "name": "Roborace(Line Followers)",
+                "teamSize": "2 to 4",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "16 November 2024",
+                "venue": "ECE Lab",
+                "time": "11:30 PM",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2nd Prize": "3000/-",
+                    "3rd Prize": "2000/-"
+                }
+            },
+            {
+                "name": "Lan Gaming",
+                "teamSize": "Group Event",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "16 November 2024",
+                "venue": "CSE Lab S-17",
+                "time": "10:00 AM",
+                "cashPrize": {
+                    "1st Prize": "3000/-",
+                    "2nd Prize": "2000/-",
+                    "3rd Prize": ""
+                }
+            },
+            {
+                "name": "Ideathon",
+                "teamSize": "2 to 5",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "17 November 2024",
+                "venue": "G-29/ F-37",
+                "time": "11:00 AM",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2nd Prize": "3000/-",
+                    "3rd Prize": "2000/-"
+                }
+            },
+            {
+                "name": "Technical Quiz",
+                "teamSize": "1",
+                "Participation": "Individual",
+                "entryFees": "0",
+                "Dates": "17 November 2024",
+                "venue": "G-29/ F-37",
+                "time": "12:00 PM",
+                "cashPrize": {
+                    "1st Prize": "3000/-",
+                    "2nd Prize": "2000/-",
+                    "3rd Prize": ""
+                }
+            },
+            {
+                "name": "Ardunio Project Battle",
+                "teamSize": "2 to 4",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "17 November 2024",
+                "venue": "G-29/ F-37",
+                "time": "1:00 PM",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2nd Prize": "3000/-",
+                    "3rd Prize": "2000/-"
+                }
+            },
+            {
+                "name": "Technology for a Better World",
+                "teamSize": "2 to 4",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "17 November 2024",
+                "venue": "G-29/ F-37",
+                "time": "2:00 PM",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2nd Prize": "3000/-",
+                    "3rd Prize": "2000/-"
+                }
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "LITERARY EVENTS",
+        "description": "Echiesta offers engaging literacy events like debates, declamations, poetry JAM, and AD MAD show, allowing particpants to showcase their intellect and creativi",
+        "poster": "literary.webp",
+        "link": "sub-events",
+        "date": ["15th, 16th, 17th November 2024"],
+        "subEvents": [
+            {
+                "TitleName": "Literary Events",
+                "link": "sub-sub-events",
+                "subSubEvents": [
+                    {
+                        "name": "Debate",
+                        "teamSize": "2",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Seminar Hall",
+                        "time": "10:00 AM",
+                        "cashPrize": {
+                            "1st Prize": "4000/-",
+                            "2nd Prize": "3000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Declamation",
+                        "teamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Seminar Hall",
+                        "time": "11:30 AM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Poetry (Hindi)",
+                        "teamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Seminar Hall",
+                        "time": "12:30 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Poetry (English)",
+                        "teamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Seminar Hall",
+                        "time": "12:30 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "JAM (Just a Minute)",
+                        "teamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Seminar Hall",
+                        "time": "1:30 PM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "AD MAD Show",
+                        "teamSize": "3",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Seminar Hall",
+                        "time": "3:00 PM",
+                        "cashPrize": {
+                            "1st Prize": "5000/-",
+                            "2nd Prize": "3000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Narrative Nexus - Hindi(Creative Writing)",
+                        "teamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "15 November 2024",
+                        "venue": "Seminar Hall",
+                        "time": "11:00 AM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "Narrative Nexus - English(Creative Writing)",
+                        "teamSize": "1",
+                        "Participation": "Individual",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "G-12",
+                        "time": "11:00 AM",
+                        "cashPrize": {
+                            "1st Prize": "3000/-",
+                            "2nd Prize": "2000/-",
+                            "3st Prize": ""
+                        }
+                    },
+                    {
+                        "name": "The Change Makers Challenge",
+                        "teamSize": "3",
+                        "Participation": "Team",
+                        "entryFees": "100",
+                        "Dates": "16 November 2024",
+                        "venue": "Online Submission",
+                        "time": "End of Day 1",
+                        "cashPrize": {
+                            "1st Prize": "5000/-",
+                            "2nd Prize": "3000/-",
+                            "3st Prize": ""
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Raso Vaisa (Cooking Event)",
+        "description": "Echiesta offers engaging cooking events, allowing particpants to showcase their cooking and creativity",
+        "poster": "flavours.webp",
+        "link": "sub-events",
+        "date": ["15th, 16th, 17th November 2024"],
+        "subEvents": [
+            {
+                "name": "Fireless Flavors(cooking without fire)",
+                "TeamSize": "3 to 4",
+                "Reserve": "",
+                "Participation": "Team",
+                "entryFees": "100",
+                "venue": "G-22",
+                "time": "11:00 AM",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "MasterChef ShowDown(Cooking on Fire",
+                "TeamSize": "3 to 4",
+                "Reserve": "",
+                "Participation": "Team",
+                "entryFees": "0",
+                "Dates": "17 November 2024",
+                "venue": "Chemistry Lab",
+                "time": "1:00 PM",
+                "cashPrize": {
+                    "1st Prize": "7000/-",
+                    "2st Prize": "5000",
+                    "3st Prize": ""
+                }
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Capture & Create",
+        "description": "Echiesta offers engaging  events, allowing particpants to showcase their creativity",
+        "poster": "snap.webp",
+        "link": "sub-events",
+        "date": ["15th, 16th, 17th November 2024"],
+        "subEvents": [
+            {
+                "name": "Reel & Reveal",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "entryFees": "100",
+                "Dates": "17 November 2024",
+                "venue": "echiesta@eitfaridabad.co.in\n(Send reels & photos)",
+                "time": "12 Midnight",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            },
+            {
+                "name": "Snap & Showcase",
+                "TeamSize": "1",
+                "Participation": "Individual",
+                "entryFees": "100",
+                "Dates": "17 November 2024",
+                "venue": "echiesta@eitfaridabad.co.in\n(Send reels & photos)",
+                "time": "12 Midnight",
+                "cashPrize": {
+                    "1st Prize": "5000/-",
+                    "2st Prize": "3000/-",
+                    "3st Prize": ""
+                }
+            }
+        ]
+    }
+]

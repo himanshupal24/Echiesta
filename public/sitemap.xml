@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://echiesta.com/</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/Brochure.pdf</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/Rule_Book.pdf</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/registration</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/signup</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/login</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/event</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/payment</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.7</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/qr</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/concert</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/admin-dashboard</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/admin-dashboard/manageusers</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/admin-dashboard/registrationsdetails</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://echiesta.com/admin-dashboard/concertdetails</loc>
+	<lastmod>2024-11-11T15:02:57+05:30</lastmod>
+	<priority>0.2</priority>
+</url>
+</urlset>
